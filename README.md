@@ -21,8 +21,8 @@
 ![image](https://user-images.githubusercontent.com/117156100/199263422-6440b844-190e-4284-a98e-e554d5c2887a.png)
 
 
-# 사용된 모델
- - YOLOv5
+# [사용된 모델] 
+ - yolov5
  
 # 갯수와 금액 합산
  - To be updated
